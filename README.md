@@ -8,7 +8,7 @@ python Download_Genomic.py
 
 ## Search the papers for the genome storage Bioproject number.
 ~~~
-bash Down.sh
+bash Down.sh -p PRNA**** -o PRNA****
 ~~~
 
 ## Annotate the genome using gtdbtk.
